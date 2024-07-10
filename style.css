@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    background-color: rgb(179, 214, 22);
+    scroll-behavior: smooth;
+}
+
+
+
+h2{
+    color: white;
+    position: relative;
+    padding-left: 5px;
+    margin: 5px;
+    margin-left: 5%;
+    
+}
+
+.icon{
+    position: relative;
+        
+}
+
+.brand-name{
+    background-color: rgba(145, 155, 10, 0.884);
+    display:block;
+    position: relative;
+    padding: 20px;
+    margin: 5px;
+}
+
+.link-container{
+    float: right;
+    flex-wrap: wrap;
+    position: relative;
+    margin: -50px;
+    right: 5%;
+    padding: 20px;
+    padding-top: 10px;
+    margin-top: -60px;
+   
+}  
+
+.link{
+    margin: 5px;
+    margin-left: 15px;
+    padding-left: 5px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 1px 1px 4px black;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.link:hover{
+    background-color: aqua;
+    
+}
+
+.bd-title{
+    font-size: 65px;
+    text-shadow: 1px 1px 15px black;
+    padding: 25px;
+    margin-left: 5px;
+}
+
+.desc{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 40px;
+    display:inline-block;
+    position: relative;
+    text-shadow: 1px 1px 15px yellow;
+}
+
+.caps{
+   position: absolute;
+   display: inline;
+   margin: auto;
+   margin-left: 30%;
+   padding: 100px;
+   padding-right: 10px;
+   padding-left: 10px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   box-shadow: 1px 1px 4px black;
+}
+
+.BULMA{
+    font-size: 65px;
+    text-shadow: 1px 1px 15px black;
+    padding: 25px;
+    margin-left: 30px;
+    top: 150px;
+}
+
+
+
+.blma{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 60px;
+    top: 100px;
+    display:inline-block;
+    position: relative;
+    text-shadow: 1px 1px 15px yellow;
+}
+
+
+
+
+
+
+.bulma{
+    position: absolute;
+    display: inline;
+    margin: 5%;
+    margin-left: 30%;
+    padding: 100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    box-shadow: 1px 1px 4px black;
+ }
